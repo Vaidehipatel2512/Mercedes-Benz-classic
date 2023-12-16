@@ -14,7 +14,6 @@ header {
 }
 body {
     margin: 0;
-    font-family: 'Alkatra', cursive;
     font-family: 'Poppins', sans-serif;
     background-color:rgb(255, 255, 255);
 }
@@ -113,26 +112,9 @@ ul li a {
     text-shadow: rgb(255, 255, 255);
     width: 800px;
 }
-.section {
-    height: 50vh;
-    background-size:cover;
-    background-position:center;
-  
-}
-.section2 {
-    height: 50vh;
-    background-size:cover;
-    background-position:center;
-  
-}
+
 div.section2 {
     margin-top: -74px;
-}
-.section3 {
-    height: 50vh;
-    background-size:cover;
-    background-position:center;
-    
 }
 .position {
     color: rgb(0 0 0);
